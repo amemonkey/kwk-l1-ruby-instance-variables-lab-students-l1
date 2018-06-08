@@ -6,5 +6,4 @@ def bro
   bro_greeting.upcase �
 end 
 
-
-puts bro_greeting
+puts bro
